@@ -4,7 +4,7 @@ I'm a Computer Science enthusiast who enjoys building software, solving problems
 
 ### Current focus
 
-I am currently exploring the exciting world of Data Engineering by working through the Data Engineering Zoomcamp by DataTalks.Club, building hands-on projects around data ingestion, ETL, workflow orchestration, cloud infrastructure, and data processing.
+I am currently working through the Data Engineering Zoomcamp by DataTalks.Club, building hands-on projects around data ingestion, ETL, workflow orchestration, cloud infrastructure, and data processing.
 
 ### Featured projects
 
